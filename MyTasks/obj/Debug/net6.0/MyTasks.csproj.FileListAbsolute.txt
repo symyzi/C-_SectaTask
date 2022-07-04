@@ -1,0 +1,15 @@
+D:\Visual Studio pack\MyTasks\MyTasks\bin\Debug\net6.0\MyTasks.exe
+D:\Visual Studio pack\MyTasks\MyTasks\bin\Debug\net6.0\MyTasks.deps.json
+D:\Visual Studio pack\MyTasks\MyTasks\bin\Debug\net6.0\MyTasks.runtimeconfig.json
+D:\Visual Studio pack\MyTasks\MyTasks\bin\Debug\net6.0\MyTasks.dll
+D:\Visual Studio pack\MyTasks\MyTasks\bin\Debug\net6.0\MyTasks.pdb
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\MyTasks.csproj.AssemblyReference.cache
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\MyTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\MyTasks.AssemblyInfoInputs.cache
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\MyTasks.AssemblyInfo.cs
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\MyTasks.csproj.CoreCompileInputs.cache
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\MyTasks.dll
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\refint\MyTasks.dll
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\MyTasks.pdb
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\MyTasks.genruntimeconfig.cache
+D:\Visual Studio pack\MyTasks\MyTasks\obj\Debug\net6.0\ref\MyTasks.dll
